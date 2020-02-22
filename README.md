@@ -11,7 +11,7 @@ a blog use antd react umi dva
     npm run dev
 ```
 # 文档目录结构
-
+```
 ├── config                   # umi 配置，包含路由，构建等配置
 ├── mock                     # 本地模拟数据
 ├── public
@@ -31,7 +31,7 @@ a blog use antd react umi dva
 ├── tests                    # 测试工具
 ├── README.md
 └── package.json
-
+```
 * 欢迎页
 * 地图页
 
