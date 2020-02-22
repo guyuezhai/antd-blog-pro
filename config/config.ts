@@ -90,6 +90,11 @@ export default {
         },
       ],
     },
+    // {
+    //     path: '/map',
+    //     component: './ChinaMap/ChinaMap',
+    //     routes: [],
+    // },
     {
       path: '/',
       component: '../layouts/SecurityLayout',
@@ -130,6 +135,13 @@ export default {
               icon: 'table',
               path: '/list',
               component: './ListTableList',
+            },
+            {
+                path: '/map',
+                icon:'dashboard',
+                name:'map',
+                component: './ChinaMap/ChinaMap',
+                // routes: [],
             },
             {
               component: './404',

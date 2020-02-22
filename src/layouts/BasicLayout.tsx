@@ -61,7 +61,7 @@ const menuDataRender = (menuList: MenuDataItem[]): MenuDataItem[] =>
 
 const defaultFooterDom = (
   <DefaultFooter
-    copyright="2019 蚂蚁金服体验技术部出品"
+    copyright="2020技术实践"
     links={[
       {
         key: 'Ant Design Pro',
@@ -72,15 +72,15 @@ const defaultFooterDom = (
       {
         key: 'github',
         title: <GithubOutlined />,
-        href: 'https://github.com/ant-design/ant-design-pro',
+        href: 'https://github.com/guyuezhai/antd-blog-pro',
         blankTarget: true,
       },
-      {
-        key: 'Ant Design',
-        title: 'Ant Design',
-        href: 'https://ant.design',
-        blankTarget: true,
-      },
+    //   {
+    //     key: 'Ant Design',
+    //     title: 'Ant Design',
+    //     href: 'https://ant.design',
+    //     blankTarget: true,
+    //   },
     ]}
   />
 );

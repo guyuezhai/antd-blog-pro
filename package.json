@@ -57,6 +57,8 @@
     "antd": "^4.0.0-rc.1",
     "classnames": "^2.2.6",
     "dva": "^2.6.0-beta.16",
+    "highcharts": "^8.0.0",
+    "highcharts-react-official": "^3.0.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "omit.js": "^1.0.2",
