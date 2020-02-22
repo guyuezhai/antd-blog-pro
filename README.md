@@ -14,7 +14,7 @@ An out-of-box UI solution for enterprise applications as a React boilerplate.
     git clone https://github.com/guyuezhai/antd-blog-pro.git
     cd antd-blog-pro
 ```    
-    **npm** 安装依赖模块比较慢 推荐采用 **cnpm**镜像安装依赖
+    npm 安装依赖模块比较慢, 推荐使用 cnpm 镜像安装依赖
 
 ```
     npm install -g cnpm --registry=https://registry.npm.taobao.org
